@@ -1,21 +1,19 @@
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
 
-        if (n == 1) {
+        if (nums.length == 1) {
             return nums[0];
         }
 
-        dp[0] = nums[0];
-        dp[1] = Math.max(nums[1], nums[0]);
+        int prev2 = nums[0];
+        int prev = Math.max(nums[1], nums[0]);
 
-        for (int i = 2; i < n; i++) {
-            int rob = nums[i] + dp[i - 2];
-            int dontRob = dp[i - 1];
-            dp[i] = Math.max(rob, dontRob);
+        for (int i = 2; i < nums.length; i++) {
+            int temp = Math.max(nums[i] + prev2, prev);
+            prev2 = prev;
+            prev = temp;
         }
-        return dp[n - 1];
+        return prev;
 
     }
 
