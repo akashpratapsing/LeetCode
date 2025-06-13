@@ -6,33 +6,16 @@ class Solution {
             return nums[0];
         }
 
-        ArrayList<Integer> arr1 = new ArrayList<>();
-        ArrayList<Integer> arr2 = new ArrayList<>();
-
-        for (int i = 0; i < n; i++){
-            if (i > 0){
-                arr1.add(nums[i]);
-            }
-            if (i < n - 1){
-                arr2.add(nums[i]);
-            }
-        }
-
-        return Math.max(rob(arr1), rob(arr2));
+        return Math.max(rob(nums, 0, n - 2), rob(nums, 1, n - 1));
         
     }
 
-    public int rob(ArrayList<Integer> nums){
+    public int rob(int[] nums, int start, int end){
 
-        if (nums.size() == 1){
-            return nums.get(0);
-        }
+        int prev2 = 0, prev = 0;
 
-        int prev2 = nums.get(0);
-        int prev = Math.max(nums.get(0), nums.get(1));
-
-        for (int i = 2; i < nums.size(); i++){
-            int curr = Math.max(nums.get(i) + prev2, prev);
+        for (int i = start; i <= end; i++){
+            int curr = Math.max(nums[i] + prev2, prev);
             prev2 = prev;
             prev = curr;
         }
