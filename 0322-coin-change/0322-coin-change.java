@@ -2,35 +2,23 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
 
         int[] dp = new int[amount + 1];
-        Arrays.fill(dp, -1);
-        int ans = solve(coins, amount, dp);
-        return (ans == Integer.MAX_VALUE) ? -1 : ans;
-    }
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[0] = 0;
 
-    public int solve(int[] coins, int amount, int[] dp){
+        for (int i = 1; i <= amount; i++) {
 
-        if (amount == 0){
-            return 0;
-        }
+            for (int j = 0; j < coins.length; j++) {
 
-        if (amount < 0){
-            return Integer.MAX_VALUE;
-        }
-
-        if (dp[amount] != -1){
-            return dp[amount];
-        }
-
-        int min = Integer.MAX_VALUE;
-        for (int i = 0; i < coins.length; i++){
-            int coin = solve(coins, amount - coins[i], dp);
-            if (coin != Integer.MAX_VALUE){
-                min = Math.min(min, 1 + coin);
+                if (i - coins[j] >= 0) {
+                    int coin = dp[i - coins[j]];
+                    if (coin != Integer.MAX_VALUE) {
+                        dp[i] = Math.min(dp[i], 1 + coin);
+                    }
+                }
             }
         }
 
-        return dp[amount] = min;
-
-      
+        return (dp[amount] == Integer.MAX_VALUE) ? -1 : dp[amount];
     }
+
 }
