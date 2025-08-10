@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akashpratapsing/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -70,17 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akashpratapsing/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akashpratapsing/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpratapsing/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
