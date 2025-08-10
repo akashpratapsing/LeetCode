@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/akashpratapsing/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/akashpratapsing/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpratapsing/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akashpratapsing/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpratapsing/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -90,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
