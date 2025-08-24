@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/akashpratapsing/LeetCode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/akashpratapsing/LeetCode/tree/master/0198-house-robber) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/akashpratapsing/LeetCode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
