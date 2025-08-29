@@ -1,7 +1,7 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        int[] hash = new int[256];
+        int[] hash = new int[128];
 
         for (char ch  : t.toCharArray()){
             hash[ch]++;
