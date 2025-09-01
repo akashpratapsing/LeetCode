@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/akashpratapsing/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/akashpratapsing/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akashpratapsing/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0213-house-robber-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akashpratapsing/LeetCode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/akashpratapsing/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
