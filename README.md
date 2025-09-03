@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/akashpratapsing/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akashpratapsing/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpratapsing/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/akashpratapsing/LeetCode/tree/master/0792-binary-search) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akashpratapsing/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akashpratapsing/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
