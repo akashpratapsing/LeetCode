@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akashpratapsing/LeetCode/tree/master/0002-add-two-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3830-find-closest-person](https://github.com/akashpratapsing/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
