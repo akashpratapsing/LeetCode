@@ -4,11 +4,16 @@ class Solution {
         if (m > bloomDay.length) return -1;
         if (m * k > bloomDay.length) return -1;
 
-        System.out.println(m * k);
-        System.out.println(bloomDay.length);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
-        int start = min(bloomDay), end = max(bloomDay);
+        for (int num : bloomDay){
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
 
+        int start = min;
+        int end = max;
         while (start <= end){
 
             int mid = start + (end - start) / 2;
@@ -37,23 +42,4 @@ class Solution {
         return (m <= 0) ? true : false;
     }
 
-    public int max(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        for (int num : nums) {
-            if (max < num) {
-                max = num;
-            }
-        }
-        return max;
-    }
-
-    public int min(int[] nums) {
-        int min = Integer.MAX_VALUE;
-        for (int num : nums) {
-            if (min > num) {
-                min = num;
-            }
-        }
-        return min;
-    }
 }
