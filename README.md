@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akashpratapsing/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akashpratapsing/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -195,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/akashpratapsing/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/akashpratapsing/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akashpratapsing/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
