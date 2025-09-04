@@ -15,7 +15,7 @@ class Solution {
 
             int mid = start + (end - start) / 2;
 
-            if (isPossible(weights, mid) <= days){
+            if (totalDays(weights, mid) <= days){
                 end = mid - 1;
             }else {
                 start = mid + 1;
@@ -24,7 +24,7 @@ class Solution {
         return start;
     }
 
-    public int isPossible(int[] nums, int capacity){
+    public int totalDays(int[] nums, int capacity){
 
         int weight = 0;
         int days = 1;
