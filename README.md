@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akashpratapsing/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/akashpratapsing/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2737-row-with-maximum-ones](https://github.com/akashpratapsing/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/akashpratapsing/LeetCode/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2737-row-with-maximum-ones](https://github.com/akashpratapsing/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
