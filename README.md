@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akashpratapsing/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akashpratapsing/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/akashpratapsing/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akashpratapsing/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akashpratapsing/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/akashpratapsing/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
