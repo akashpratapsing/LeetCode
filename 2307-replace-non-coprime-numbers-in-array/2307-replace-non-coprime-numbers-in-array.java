@@ -19,13 +19,6 @@ class Solution {
     }
 
     public int gcd(int a, int b) {
-        while (a > 0 && b > 0) {
-            if (a > b) {
-                a = a % b;
-            } else {
-                b = b % a;
-            }
-        }
-        return (a == 0) ? b : a;
+        return (b == 0) ? a : gcd(b, a % b);
     }
 }
