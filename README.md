@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akashpratapsing/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/akashpratapsing/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akashpratapsing/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/akashpratapsing/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/akashpratapsing/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akashpratapsing/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akashpratapsing/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/akashpratapsing/LeetCode/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3830-find-closest-person](https://github.com/akashpratapsing/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akashpratapsing/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/akashpratapsing/LeetCode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akashpratapsing/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akashpratapsing/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akashpratapsing/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
