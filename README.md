@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akashpratapsing/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/akashpratapsing/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/akashpratapsing/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/akashpratapsing/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/akashpratapsing/LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akashpratapsing/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akashpratapsing/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/akashpratapsing/LeetCode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akashpratapsing/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
