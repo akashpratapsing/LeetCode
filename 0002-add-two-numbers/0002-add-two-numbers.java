@@ -11,24 +11,23 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
-        ListNode curr = new ListNode();
-        ListNode dummy = curr;
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        ListNode num1 = l1, num2 = l2;
         int carry = 0;
 
-        while(l1 != null || l2 != null || carry !=0){
-            int d1 = (l1 != null) ? l1.val : 0;
-            int d2 = (l2 != null)? l2.val : 0;
+        while (num1 != null || num2 != null || carry != 0){
 
-            int sum = d1 + d2 + carry;
-            curr.next = new ListNode(sum % 10);
+            int a = (num1 != null) ? num1.val : 0;
+            int b = (num2 != null) ? num2.val : 0;
+            int sum = a + b + carry;
             carry = sum / 10;
-
-            l1 = (l1 != null) ? l1.next : null;
-            l2 = (l2 != null) ? l2.next : null;
+            curr.next = new ListNode(sum % 10);
             curr = curr.next;
+            num1 = (num1 != null) ? num1.next : null;
+            num2 = (num2 != null) ? num2.next : null;
+            
         }
-
-        return dummy.next;
-      
+      return dummy.next;
     }
 }
