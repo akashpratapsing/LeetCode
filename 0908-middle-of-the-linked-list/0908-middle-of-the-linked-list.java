@@ -13,17 +13,11 @@ class Solution {
 
         if (head.next == null) return head;
 
-        int count = 0;
-        ListNode curr = head;
-        while (curr != null){
-            count++;
-            curr = curr.next;
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int middle = (count / 2) + 1;
-        while (middle-- > 0){
-            if (middle == 0) break;
-            head = head.next;
-        }
-        return head;
+        return slow;
     }
 }
