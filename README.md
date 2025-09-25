@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akashpratapsing/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/akashpratapsing/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akashpratapsing/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashpratapsing/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akashpratapsing/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/akashpratapsing/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akashpratapsing/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashpratapsing/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akashpratapsing/LeetCode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 ## Queue
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akashpratapsing/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/akashpratapsing/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akashpratapsing/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akashpratapsing/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akashpratapsing/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
