@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akashpratapsing/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/akashpratapsing/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/akashpratapsing/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akashpratapsing/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/akashpratapsing/LeetCode/tree/master/0198-house-robber) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akashpratapsing/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/akashpratapsing/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/akashpratapsing/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/akashpratapsing/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/akashpratapsing/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akashpratapsing/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akashpratapsing/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/akashpratapsing/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akashpratapsing/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akashpratapsing/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/akashpratapsing/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
