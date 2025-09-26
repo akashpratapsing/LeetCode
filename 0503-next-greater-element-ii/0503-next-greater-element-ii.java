@@ -5,7 +5,7 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
 
-        for (int i = (2 * n) + 1; i >= 0; i--){
+        for (int i = 2 * n - 1; i >= 0; i--){
 
             while (!st.isEmpty() && st.peek() <= nums[i % n]){
                 st.pop();
