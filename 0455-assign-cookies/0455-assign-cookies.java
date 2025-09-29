@@ -3,14 +3,13 @@ class Solution {
 
         Arrays.sort(g);
         Arrays.sort(s);
-        int l = 0, r = 0;
-
-        while (l < s.length && r < g.length) {
-            if (g[r] <= s[l])
-                r++;
-            l++;
+        int left = 0 , right = 0;
+        while(left < s.length && right < g.length){
+            if (s[left] >= g[right]){
+                right++;
+            }
+            left++;
         }
-
-        return r;
+        return right;
     }
 }
