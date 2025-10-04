@@ -17,17 +17,24 @@ class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
 
         List<Integer> list = new ArrayList<>();
-        traverse(root, list);
+        if (root == null){
+            return list;
+        }
+
+        Stack<TreeNode> st = new Stack<>();
+        st.push(root);
+
+        while (!st.isEmpty()){
+            TreeNode currNode = st.pop();
+            list.add(currNode.val);
+            if (currNode.right != null){
+                st.push(currNode.right);
+            }
+            if (currNode.left != null){
+                st.push(currNode.left);
+            }
+        }
         return list;
     }
 
-    public void traverse(TreeNode root, List<Integer> list){
-
-        if (root == null) return;
-
-        list.add(root.val);
-        traverse(root.left, list);
-        traverse(root.right, list);
-
-    }
 }
