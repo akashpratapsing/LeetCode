@@ -21,27 +21,20 @@ class Solution {
         }
 
         int[] max = new int[1];
-        helper(root, max);
+        getHeight(root, max);
         return max[0];
     }
 
-    public void helper(TreeNode root, int[] max){
-
-        if (root == null) return;
-
-        int left = getHeight(root.left);
-        int right = getHeight(root.right);
-        max[0] = Math.max(left + right, max[0]);
-
-        helper(root.left, max);
-        helper(root.right, max);
-
-    }
-
-    public int getHeight(TreeNode root){
+    public int getHeight(TreeNode root, int[] max){
 
         if (root == null) return 0;
-        return 1 + Math.max(getHeight(root.left), getHeight(root.right));
+
+        int left = getHeight(root.left, max);
+        int right = getHeight(root.right, max);
+
+        max[0] = Math.max(left + right, max[0]);
+
+        return 1 + Math.max(left, right);
     }
 
 
