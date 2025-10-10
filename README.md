@@ -412,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akashpratapsing/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akashpratapsing/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akashpratapsing/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/akashpratapsing/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
