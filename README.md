@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akashpratapsing/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/akashpratapsing/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/akashpratapsing/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/akashpratapsing/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akashpratapsing/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/akashpratapsing/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/akashpratapsing/LeetCode/tree/master/0735-asteroid-collision) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
