@@ -27,7 +27,7 @@ class Solution {
             sum += root.right.val;
         }
 
-        if (root.left != null && root.right != null) {
+        if (root.left != null || root.right != null) {
             if (root.val != sum)
                 return false;
 
