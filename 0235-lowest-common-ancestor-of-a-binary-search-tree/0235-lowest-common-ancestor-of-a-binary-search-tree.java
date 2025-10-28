@@ -14,14 +14,17 @@ class Solution {
         if (root == null)
             return root;
 
-        int curr = root.val;
+        TreeNode temp = root;
 
-        if (curr < p.val && curr < q.val) {
-            return lowestCommonAncestor(root.right, p, q);
-        }
-
-        if (curr > p.val && curr > q.val) {
-            return lowestCommonAncestor(root.left, p, q);
+        while (temp != null) {
+            int curr = temp.val;
+            if (curr < p.val && curr < q.val){
+                temp = temp.right;
+            } else if (curr > p.val && curr > q.val){
+                temp = temp.left;
+            } else {
+                return temp;
+            }
         }
         return root;
     }
