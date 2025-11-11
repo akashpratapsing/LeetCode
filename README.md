@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/akashpratapsing/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/akashpratapsing/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akashpratapsing/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/akashpratapsing/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/akashpratapsing/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0213-house-robber-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/akashpratapsing/LeetCode/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/akashpratapsing/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/akashpratapsing/LeetCode/tree/master/0200-number-of-islands) |
