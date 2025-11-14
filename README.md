@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akashpratapsing/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akashpratapsing/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/akashpratapsing/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/akashpratapsing/LeetCode/tree/master/0322-coin-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/akashpratapsing/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/akashpratapsing/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/akashpratapsing/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/akashpratapsing/LeetCode/tree/master/2737-row-with-maximum-ones) |
