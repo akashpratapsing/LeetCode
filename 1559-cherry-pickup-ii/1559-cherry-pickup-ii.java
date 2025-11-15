@@ -3,14 +3,15 @@ class Solution {
 
         int n = grid.length;
         int m = grid[0].length;
-		int[][][] dp = new int[n][m][m];
+		int[][] front = new int[m][m];
+        int[][] curr = new int[m][m];
 
         for (int i = 0; i < m; i++){
             for (int j = 0; j < m; j++){
                 if (i == j){
-                    dp[n - 1][i][j] = grid[n - 1][i];
+                    front[i][j] = grid[n - 1][i];
                 }else {
-                    dp[n - 1][i][j] = grid[n - 1][i] + grid[n - 1][j];
+                    front[i][j] = grid[n - 1][i] + grid[n - 1][j];
                 }
             }
         }
@@ -29,21 +30,25 @@ class Solution {
                             }else {
                                 value = grid[i][j1] + grid[i][j2];
                             }
-                            
+
                             if (j1 + d1 < 0 || j1 + d1 >= m || j2 + d2 < 0 || j2 + d2 >= m ){        
                                 value += (int) -1e8;
                             }else {
-                                value += dp[i + 1][j1 + d1][j2 + d2];
+                                value += front[j1 + d1][j2 + d2];
                             }
                             max = Math.max(max, value);
 			              }
                         }
-                        dp[i][j1][j2] = max;
+                        curr[j1][j2] = max;
                     }
                 }
+                front = new int[m][m];
+                  for (int a = 0; a < m; a++){
+                     front[a] = curr[a].clone();
+                      }
             }
         
-		return dp[0][0][m - 1];
+		return front[0][m - 1];
         
     }
   
