@@ -1,45 +1,50 @@
 class Solution {
     public int cherryPickup(int[][] grid) {
 
-        int r = grid.length;
-        int c = grid[0].length;
-		int[][][] dp = new int[r][c][c];
-		for (int[][] a : dp){
-			for (int[] b : a){
-			   Arrays.fill(b, -1);
-			}
-		}
-		return helper(grid, r, c, 0, 0, c - 1, dp);
+        int n = grid.length;
+        int m = grid[0].length;
+		int[][][] dp = new int[n][m][m];
+
+        for (int i = 0; i < m; i++){
+            for (int j = 0; j < m; j++){
+                if (i == j){
+                    dp[n - 1][i][j] = grid[n - 1][i];
+                }else {
+                    dp[n - 1][i][j] = grid[n - 1][i] + grid[n - 1][j];
+                }
+            }
+        }
+
+        for (int i = n - 2; i >= 0; i--){
+
+            for (int j1 = 0; j1 < m; j1++){
+                for (int j2 = 0; j2 < m; j2++){
+
+                    int max = (int) -1e8;
+                    for (int d1 = -1; d1 <= 1; d1++){
+                        for (int d2 = -1; d2 <= 1; d2++){
+                            int value = 0;
+                            if (j1 == j2){
+                                value = grid[i][j1];
+                            }else {
+                                value = grid[i][j1] + grid[i][j2];
+                            }
+                            
+                            if (j1 + d1 < 0 || j1 + d1 >= m || j2 + d2 < 0 || j2 + d2 >= m ){        
+                                value += (int) -1e8;
+                            }else {
+                                value += dp[i + 1][j1 + d1][j2 + d2];
+                            }
+                            max = Math.max(max, value);
+			              }
+                        }
+                        dp[i][j1][j2] = max;
+                    }
+                }
+            }
+        
+		return dp[0][0][m - 1];
         
     }
-    public static int helper(int[][] grid, int r, int c, int i, int j1, int j2, int[][][] dp){
-
-		if (i >= r || j1 < 0 || j1 >= c || j2 < 0 || j2 >= c ){
-			return (int) -1e8;
-		}
-
-		if (i == r - 1) {
-			if (j1 == j2){
-				return grid[i][j1];
-			}else {
-				return grid[i][j1] + grid[i][j2];
-			}
-		}
-
-		if (dp[i][j1][j2] != -1){
-			return dp[i][j1][j2];
-		}
-
-		int max = (int) -1e8;
-		for (int x = -1; x <= 1; x++){
-			for (int y = -1; y <= 1; y++){
-			if (j1 == j2){
-			max =  Math.max(max, grid[i][j1] + helper(grid, r, c, i + 1, j1 + x, j2 + y, dp));
-			}else {
-			max =  Math.max(max, grid[i][j1] + grid[i][j2] + helper(grid, r, c, i + 1, j1 + x, j2 + y, dp));
-			}
-			}
-		}
-		return dp[i][j1][j2] = max;
-	}
+  
 }
