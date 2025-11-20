@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akashpratapsing/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/akashpratapsing/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/akashpratapsing/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2058-concatenation-of-array](https://github.com/akashpratapsing/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/akashpratapsing/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/akashpratapsing/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/akashpratapsing/LeetCode/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/akashpratapsing/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashpratapsing/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
