@@ -1,21 +1,16 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
 
-        int[] x = new int[n];
-        int[] y = new int[n];
-        
-        for (int i = 0; i < n; i++){
-            x[i] = nums[i];
-            y[i] = nums[n + i];
+        int[] ans = new int[ 2 * n];
+
+        int i = 0, j = n;
+        int ind = 0;
+
+        while (ind < 2 * n){
+            ans[ind] = nums[i++];
+            ans[ind + 1] = nums[j++];
+            ind +=2;
         }
-        int xi = 0, yi = 0;
-        for (int i = 0 ; i < 2 * n; i++){
-            if (i % 2 == 0){
-                nums[i] = x[xi++];
-            }else {
-                nums[i] = y[yi++];
-            }
-        }
-        return nums;
+        return ans;
     }
 }
