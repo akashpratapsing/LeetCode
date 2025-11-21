@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akashpratapsing/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpratapsing/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/akashpratapsing/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/akashpratapsing/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/akashpratapsing/LeetCode/tree/master/0890-lemonade-change) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akashpratapsing/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akashpratapsing/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/akashpratapsing/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akashpratapsing/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akashpratapsing/LeetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/akashpratapsing/LeetCode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akashpratapsing/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/akashpratapsing/LeetCode/tree/master/0260-single-number-iii) |
+| [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akashpratapsing/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
