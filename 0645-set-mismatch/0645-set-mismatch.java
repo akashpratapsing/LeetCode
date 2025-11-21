@@ -4,20 +4,19 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[2];
         boolean[] seen = new boolean[n + 1];
+        int sum = 0;
 
         for (int i : nums){
             if (seen[i]){
                 ans[0] = i;
+            }else {
+                seen[i] = true;
+                sum += i;
             }
-            seen[i] = true;
+            
         }
 
-        for (int i = 1; i <= n; i++){
-            if(!seen[i]){
-                ans[1] = i;
-                break;
-            }
-        }
+        ans[1] = ((n * (n + 1)) /2) - sum;
     
         return ans;
     }
