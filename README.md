@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/akashpratapsing/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akashpratapsing/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/akashpratapsing/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akashpratapsing/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/akashpratapsing/LeetCode/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/akashpratapsing/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akashpratapsing/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
