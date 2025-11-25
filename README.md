@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akashpratapsing/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/akashpratapsing/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akashpratapsing/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/akashpratapsing/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/akashpratapsing/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/akashpratapsing/LeetCode/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/akashpratapsing/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/akashpratapsing/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/akashpratapsing/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/akashpratapsing/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1441-build-an-array-with-stack-operations](https://github.com/akashpratapsing/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/akashpratapsing/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
