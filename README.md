@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akashpratapsing/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akashpratapsing/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akashpratapsing/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akashpratapsing/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/akashpratapsing/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akashpratapsing/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Queue
 |  |
 | ------- |
