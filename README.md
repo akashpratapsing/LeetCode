@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/akashpratapsing/LeetCode/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/akashpratapsing/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashpratapsing/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/akashpratapsing/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akashpratapsing/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2485-find-the-pivot-integer](https://github.com/akashpratapsing/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
