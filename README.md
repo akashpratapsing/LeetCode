@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/akashpratapsing/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [3531-count-covered-buildings](https://github.com/akashpratapsing/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3531-count-covered-buildings](https://github.com/akashpratapsing/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Linked List
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akashpratapsing/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3531-count-covered-buildings](https://github.com/akashpratapsing/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Queue
 |  |
 | ------- |
