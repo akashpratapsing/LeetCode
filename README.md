@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/akashpratapsing/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [3433-count-mentions-per-user](https://github.com/akashpratapsing/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/akashpratapsing/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/akashpratapsing/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3433-count-mentions-per-user](https://github.com/akashpratapsing/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashpratapsing/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/akashpratapsing/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akashpratapsing/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3433-count-mentions-per-user](https://github.com/akashpratapsing/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/akashpratapsing/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Queue
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/akashpratapsing/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3433-count-mentions-per-user](https://github.com/akashpratapsing/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashpratapsing/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
