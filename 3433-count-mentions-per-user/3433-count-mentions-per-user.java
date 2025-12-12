@@ -3,6 +3,7 @@ class Solution {
 
         int n = numberOfUsers;
         int[] count = new int[n];
+
         events.sort((a, b) -> {
             int t1 = Integer.parseInt(a.get(1));
             int t2 = Integer.parseInt(b.get(1));
@@ -20,8 +21,9 @@ class Solution {
 
             return 0;
         });
-        System.out.println(events);
+
         int[] nextOnlineTime = new int[numberOfUsers];
+
         for (List<String> e : events) {
 
             String message = e.get(0);
