@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/akashpratapsing/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/akashpratapsing/LeetCode/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1925-count-square-sum-triples](https://github.com/akashpratapsing/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/akashpratapsing/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3433-count-mentions-per-user](https://github.com/akashpratapsing/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/akashpratapsing/LeetCode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/akashpratapsing/LeetCode/tree/master/1925-count-square-sum-triples) |
 ## Number Theory
 |  |
 | ------- |
