@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akashpratapsing/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/akashpratapsing/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akashpratapsing/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashpratapsing/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/akashpratapsing/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/akashpratapsing/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
