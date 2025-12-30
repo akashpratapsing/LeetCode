@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akashpratapsing/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/akashpratapsing/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/akashpratapsing/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/akashpratapsing/LeetCode/tree/master/0509-fibonacci-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akashpratapsing/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/akashpratapsing/LeetCode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/akashpratapsing/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/akashpratapsing/LeetCode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/akashpratapsing/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akashpratapsing/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
