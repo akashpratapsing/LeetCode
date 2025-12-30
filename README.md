@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/akashpratapsing/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/akashpratapsing/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/akashpratapsing/LeetCode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashpratapsing/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akashpratapsing/LeetCode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/akashpratapsing/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/akashpratapsing/LeetCode/tree/master/0605-can-place-flowers) |
