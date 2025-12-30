@@ -1,20 +1,10 @@
 class Solution {
     public int[] countBits(int n) {
         
-        int[] ans = new int[n + 1];
+        int[] memo = new int[n + 1];
         for (int i = 0; i <= n; i++){
-            ans[i] = count(i);
+            memo[i] = (i & 1) + memo[i / 2];
         }
-        return ans;
-    }
-
-    public int count(int n){
-
-        int count = 0;
-        while (n != 0){
-            count++;
-            n &= (n - 1);
-        }
-        return count;
+        return memo;
     }
 }
