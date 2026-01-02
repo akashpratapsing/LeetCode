@@ -1,14 +1,13 @@
 class Solution {
     public int maxProfit(int[] prices, int fee) {
 
-        int[] after = new int[2];
-        int[] curr = new int[2];
-
+        int currBuy = 0, currNotBuy = 0, aheadBuy = 0, aheadNotBuy = 0;
         for (int ind = prices.length - 1; ind >= 0; ind--) {
-            curr[1] = Math.max(-prices[ind] + after[0],after[1]);
-            curr[0] = Math.max(prices[ind] - fee + after[1],after[0]);
-            after = curr;
+            currBuy = Math.max(-prices[ind] + aheadNotBuy, aheadBuy);
+            currNotBuy = Math.max(prices[ind] - fee + aheadBuy, aheadNotBuy);
+            aheadBuy = currBuy;
+            aheadNotBuy = currNotBuy;
         }
-        return after[1];
+        return aheadBuy;
     }
 }
