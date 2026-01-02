@@ -1,24 +1,30 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
 
-        int[] dp = new int[amount + 1];
-        Arrays.fill(dp, Integer.MAX_VALUE);
-        dp[0] = 0;
+        int n = coins.length;
+        int[][] dp = new int[n][amount + 1];
+        for (int[] arr: dp){
+            Arrays.fill(arr, -1);
+        }
+        int ans = f(coins, amount, n - 1, dp);
+        return (ans >= 1e9) ? -1 : ans;
+    }
 
-        for (int i = 1; i <= amount; i++) {
+    public int f(int[] coins, int t, int ind, int dp[][]){
 
-            for (int j = 0; j < coins.length; j++) {
-
-                if (i - coins[j] >= 0) {
-                    int coin = dp[i - coins[j]];
-                    if (coin != Integer.MAX_VALUE) {
-                        dp[i] = Math.min(dp[i], 1 + coin);
-                    }
-                }
-            }
+        if (ind == 0) {
+            if (t % coins[0] == 0) return t / coins[0];
+            return (int) 1e9;
         }
 
-        return (dp[amount] == Integer.MAX_VALUE) ? -1 : dp[amount];
+        if (dp[ind][t] != -1) return dp[ind][t];
+
+        int notTake = f(coins, t, ind - 1, dp);
+        int take = (int) 1e9;
+        if (coins[ind] <= t){
+            take = 1 + f(coins, t - coins[ind], ind, dp);
+        }
+        return dp[ind][t] = Math.min(take, notTake);
     }
 
 }
