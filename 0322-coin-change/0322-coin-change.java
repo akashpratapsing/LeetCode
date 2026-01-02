@@ -3,28 +3,23 @@ class Solution {
 
         int n = coins.length;
         int[][] dp = new int[n][amount + 1];
-        for (int[] arr: dp){
-            Arrays.fill(arr, -1);
+
+        for (int i = 0; i <= amount; i++) {
+            dp[0][i] = (i % coins[0] == 0) ? i / coins[0] : (int) 1e9;
         }
-        int ans = f(coins, amount, n - 1, dp);
+
+        for (int ind = 1; ind < n; ind++) {
+
+            for (int t = 0; t <= amount; t++) {
+                int notTake = dp[ind - 1][t];
+                int take = (int) 1e9;
+                if (coins[ind] <= t) {
+                    take = 1 + dp[ind][t - coins[ind]];
+                }
+                dp[ind][t] = Math.min(take, notTake);
+            }
+        }
+        int ans = dp[n - 1][amount];
         return (ans >= 1e9) ? -1 : ans;
     }
-
-    public int f(int[] coins, int t, int ind, int dp[][]){
-
-        if (ind == 0) {
-            if (t % coins[0] == 0) return t / coins[0];
-            return (int) 1e9;
-        }
-
-        if (dp[ind][t] != -1) return dp[ind][t];
-
-        int notTake = f(coins, t, ind - 1, dp);
-        int take = (int) 1e9;
-        if (coins[ind] <= t){
-            take = 1 + f(coins, t - coins[ind], ind, dp);
-        }
-        return dp[ind][t] = Math.min(take, notTake);
-    }
-
 }
