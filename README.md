@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashpratapsing/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/akashpratapsing/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/akashpratapsing/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/akashpratapsing/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akashpratapsing/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/akashpratapsing/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akashpratapsing/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/akashpratapsing/LeetCode/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akashpratapsing/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akashpratapsing/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/akashpratapsing/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
