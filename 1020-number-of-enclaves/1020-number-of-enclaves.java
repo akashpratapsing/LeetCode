@@ -22,31 +22,15 @@ class Solution {
         int m = grid[0].length;
         boolean[][] visited = new boolean[n][m];
 
-        // Boundary Rows
-        for (int i = 0; i < m; i++){
-            if (!visited[0][i] && grid[0][i] == 1){
-                dfs(0, i, grid, visited);
-            }
-
-            if (!visited[n - 1][i] && grid[n - 1][i] == 1){
-                dfs(n - 1, i, grid, visited);
-            }
-        }
-
-        // Boundary Col
-         for (int i = 0; i < n; i++){
-
-            if (!visited[i][0] && grid[i][0] == 1){
-                dfs(i, 0, grid, visited);
-            }
-
-            if (!visited[i][m - 1] && grid[i][m - 1] == 1){
-                dfs(i, m - 1, grid, visited);
+        for (int i = 0; i < n; i++){
+            for (int j = 0; j < m; j++){
+                if ((i == 0 || j == 0 || i == n - 1 || j == m - 1) && grid[i][j] == 1){
+                    dfs(i, j, grid, visited);
+                }
             }
         }
 
         int count = 0;
-
         for (int i = 0; i < n; i++){
             for (int j = 0; j < m; j++){
                 if (!visited[i][j] && grid[i][j] == 1){
