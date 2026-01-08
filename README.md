@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akashpratapsing/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Breadth-First Search
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/akashpratapsing/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akashpratapsing/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akashpratapsing/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/akashpratapsing/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akashpratapsing/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
