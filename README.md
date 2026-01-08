@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akashpratapsing/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/akashpratapsing/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/akashpratapsing/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akashpratapsing/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akashpratapsing/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/akashpratapsing/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akashpratapsing/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1092-shortest-common-supersequence](https://github.com/akashpratapsing/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akashpratapsing/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akashpratapsing/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
