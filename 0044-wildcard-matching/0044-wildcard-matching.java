@@ -1,33 +1,35 @@
 class Solution {
-
-    public boolean f(int i, int j, String s, String p, int[][] dp){
-        if (i < 0 && j < 0) return true;
-        if (i < 0 && j >= 0) return false;
-        if (j < 0 && i >= 0){
-            for (int ii = 0; ii <= i; ii++){
-                if (p.charAt(ii) != '*') return false;
-            }
-            return true;
-        }
-        
-        if (dp[i][j] != -1) return dp[i][j] == 1;
-
-        if (p.charAt(i) == s.charAt(j) || p.charAt(i) == '?')
-            dp[i][j] = f(i - 1, j - 1, s, p, dp) ? 1 : 0;
-        
-        else if (p.charAt(i) == '*')
-            dp[i][j] = (f(i - 1, j, s, p, dp) || f(i, j - 1, s, p, dp)) ? 1 : 0;
-        
-        else dp[i][j] = 0;
-        return dp[i][j] == 1;
-    }
     public boolean isMatch(String s, String p) {
         int n = s.length();
         int m = p.length();
-        int[][] dp = new int[m][n];
-        for (int[] arr : dp){
-            Arrays.fill(arr, -1);
+        boolean[][] dp = new boolean[m + 1][n + 1];
+
+        dp[0][0] = true;
+
+        for (int i = 1; i <= m; i++) {
+            boolean flag = true;
+            for (int j = 1; j <= i; j++) {
+                if (p.charAt(j - 1) != '*') {
+                    flag = false;
+                    break;
+                }
+            }
+            dp[i][0] = flag;
         }
-        return f(m - 1, n - 1, s, p, dp);
+
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (p.charAt(i - 1) == s.charAt(j - 1) || p.charAt(i - 1) == '?')
+                    dp[i][j] = dp[i - 1][j - 1];
+
+                else if (p.charAt(i - 1) == '*')
+                    dp[i][j] = dp[i - 1][j] || dp[i][j - 1];
+
+                else
+                    dp[i][j] = false;
+            }
+        }
+
+        return dp[m][n];
     }
 }
