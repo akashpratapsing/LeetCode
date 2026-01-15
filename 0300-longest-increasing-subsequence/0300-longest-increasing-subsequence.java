@@ -2,37 +2,19 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
 
         int n = nums.length;
-        int[] dp = new int[n];
-        int[] hash = new int[n];
-        Arrays.fill(dp, 1);
-        Arrays.fill(hash, -1);
-        int max = 1;
-        int lastInd = 0;
+        List<Integer> list = new ArrayList<>();
+        list.add(nums[0]);
 
-        for (int i = 0; i < n; i++){
-            for (int prev = 0; prev < i; prev++){
+        for (int i = 1; i < n; i++){
 
-                if(nums[prev] < nums[i] && 1 + dp[prev] > dp[i]){
-                    dp[i] = 1 + dp[prev];
-                    hash[i] = prev;
-                }
-            }
-
-            if (dp[i] > max){
-                max = dp[i];
-                lastInd = i;
+            if(nums[i] > list.get(list.size() - 1)){
+                list.add(nums[i]);
+            }else {
+                int ind = Collections.binarySearch(list, nums[i]);
+                if (ind < 0) ind = -(ind + 1);
+                list.set(ind, nums[i]);
             }
         }
-
-        List<Integer> lis = new ArrayList<>();
-        int curr = lastInd;
-        while (curr != -1){
-            lis.add(nums[curr]);
-            curr = hash[curr];
-        }
-        Collections.reverse(lis);
-        System.out.println(lis);
-       
-        return max;
+        return list.size();
     }
 }
