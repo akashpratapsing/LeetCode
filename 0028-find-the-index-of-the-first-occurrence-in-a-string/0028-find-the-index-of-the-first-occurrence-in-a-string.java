@@ -3,7 +3,7 @@ class Solution {
         
         if (haystack.length() < needle.length()) return -1;
 
-        for (int i = 0; i < haystack.length(); i++){
+        for (int i = 0; i <= haystack.length() - needle.length() ; i++){
             if (haystack.substring(i).startsWith(needle)){
                 return i;
             }
