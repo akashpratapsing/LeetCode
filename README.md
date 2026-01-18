@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/akashpratapsing/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akashpratapsing/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akashpratapsing/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/akashpratapsing/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/akashpratapsing/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akashpratapsing/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/akashpratapsing/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/akashpratapsing/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akashpratapsing/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/akashpratapsing/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Breadth-First Search
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/akashpratapsing/LeetCode/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akashpratapsing/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/akashpratapsing/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3433-count-mentions-per-user](https://github.com/akashpratapsing/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/akashpratapsing/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Queue
