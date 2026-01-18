@@ -1,19 +1,5 @@
 class Solution {
 
-    public int f(int i, int j, int[] cuts, int[][] dp) {
-        if (i > j)
-            return 0;
-        if (dp[i][j] != -1)
-            return dp[i][j];
-
-        int min = Integer.MAX_VALUE;
-        for (int k = i; k <= j; k++) {
-            int cost = cuts[j + 1] - cuts[i - 1] + f(i, k - 1, cuts, dp) + f(k + 1, j, cuts, dp);
-            min = Math.min(min, cost);
-        }
-        return dp[i][j] = min;
-    }
-
     public int minCost(int n, int[] cuts) {
 
         int m = cuts.length;
