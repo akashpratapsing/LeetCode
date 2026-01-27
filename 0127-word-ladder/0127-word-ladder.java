@@ -18,6 +18,9 @@ class Solution {
 
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(beginWord, 1));
+        if (set.contains(beginWord)){
+            set.remove(beginWord);
+        }
 
         while (!q.isEmpty()){
             String word = q.peek().first;
