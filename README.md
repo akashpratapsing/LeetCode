@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/akashpratapsing/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/akashpratapsing/LeetCode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/akashpratapsing/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/akashpratapsing/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/akashpratapsing/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/akashpratapsing/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/akashpratapsing/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/akashpratapsing/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/akashpratapsing/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/akashpratapsing/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/akashpratapsing/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/akashpratapsing/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
