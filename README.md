@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akashpratapsing/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/akashpratapsing/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/akashpratapsing/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/akashpratapsing/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -705,12 +706,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akashpratapsing/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/akashpratapsing/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/akashpratapsing/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akashpratapsing/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/akashpratapsing/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/akashpratapsing/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -719,4 +722,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akashpratapsing/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/akashpratapsing/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
