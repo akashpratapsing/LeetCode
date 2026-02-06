@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/akashpratapsing/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akashpratapsing/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/akashpratapsing/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akashpratapsing/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/akashpratapsing/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akashpratapsing/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/akashpratapsing/LeetCode/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/akashpratapsing/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
