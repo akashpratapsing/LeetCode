@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/akashpratapsing/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akashpratapsing/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/akashpratapsing/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akashpratapsing/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akashpratapsing/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akashpratapsing/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/akashpratapsing/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/akashpratapsing/LeetCode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akashpratapsing/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akashpratapsing/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akashpratapsing/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/akashpratapsing/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akashpratapsing/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
